@@ -1,10 +1,10 @@
 # GMT 5 Session common arguments shelf
-BEGIN GMT 5.4.3
+BEGIN GMT 5.4.5
 B	a100+lElevation (m)
 J	M
 JM	M13
-R	121.45/121.70/25.05/25.30
-X	2
-Y	1
+R	120.70/121.10/23.00/23.40
+X	3
+Y	10
 L	6
 END

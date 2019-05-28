@@ -5,7 +5,7 @@ cpt=topo.cpt
 # generate cpt file
 gmt makecpt -Cearth -T-5000/5000/100 > $cpt
 # plot topography
-gmt grdimage ../TW_topo.grd -R118/123/21.5/26.5 -JM13 -BWeSn -Ba -C$cpt -P -X1 -Y1 -K > $ps
+gmt grdimage ../TW_topo.grd -R118/123/21.5/26.5 -JM13 -BWeSn -Ba -C$cpt -P -X3 -Y10 -K > $ps
 # plot the coast
 gmt pscoast -R -JM -Df -W1 -K -O >> $ps
 # plot the scale bar
