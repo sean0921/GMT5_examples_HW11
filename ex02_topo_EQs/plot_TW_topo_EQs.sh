@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ps=TW_topo_EQs.ps
 cpt=topo.cpt
 cpt2=EQ.cpt

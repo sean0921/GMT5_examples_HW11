@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ps=TW_focal.ps
 cpt=topo.cpt
 catalog=201901281210.list
